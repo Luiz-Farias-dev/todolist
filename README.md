@@ -11,5 +11,6 @@ Adding a new task:
 ![image](https://user-images.githubusercontent.com/75786708/163633613-77089ae9-984c-4225-8353-c097967090f2.png)
 
 Completing tasks:
-![image](https://user-images.githubusercontent.com/75786708/163633649-b4be74bc-63d1-4b63-9097-1450b1e055b5.png)
+![image](https://user-images.githubusercontent.com/75786708/163634049-295c4759-ef40-48ad-b597-e61974cea4a0.png)
+
 
